@@ -54,7 +54,7 @@
   },
   "devDependencies": {
     "browser-sync": "^2.28.3",
-    "standard": "^16.0.4",
+    "standard": "^17.1.0",
     "wait-on": "^7.0.1",
     "webshot-node": "^0.18.2"
   },
