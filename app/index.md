@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "A design history for Digital Land"
+title: "A design history for the Planning Data Service"
 description: "A permanent record of how our service has developed over time."
 pagination:
   data: collections.all
