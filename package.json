@@ -11,11 +11,11 @@
     "government",
     "govuk"
   ],
-  "author": "Becoming a teacher team",
+  "author": "Planning Data Team",
   "license": "MIT",
   "homepage": "https://digital-land.github.io/design-history/",
   "repository": "github:digital-land/design-history",
-  "bugs": "https://github.com/DFE-Digital/govuk-design-history/issues",
+  "bugs": "https://digital-land.github.io/design-history/issues",
   "scripts": {
     "copy:netlify-cms": "cpx 'node_modules/netlify-cms/dist/*.*' public/assets/javascripts/netlify-cms/ --clean --verbose",
     "clean": "rimraf public",
