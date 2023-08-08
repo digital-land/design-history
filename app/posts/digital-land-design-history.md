@@ -1,7 +1,7 @@
 ---
 title: The digital land design history
 description: An introduction to the digital land design history.
-date: 2022-01-26
+date: 2023-08-08
 ---
 When designing and building a service, it can be easy to forget why previous decisions were made, even more so as new people join the team and others leave. A design history can help by creating a permanent record.
 
