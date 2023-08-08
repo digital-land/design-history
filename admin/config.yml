@@ -3,7 +3,7 @@ backend:
   name: github
   branch: main
   repo: digital-land/digital-land-design-history
-  base_url: https://dl-cms-oauth-service.herokuapp.com/
+  base_url: https://cms-oauth-service.vercel.app/
 # a URL to your published site. May be used by the CMS for various functionality
 site_url: https://digital-land-design.netlify.app
 display_url: https://digital-land-design.netlify.app
