@@ -5,8 +5,8 @@ backend:
   repo: digital-land/digital-land-design-history
   base_url: https://cms-oauth-service.vercel.app/
 # a URL to your published site. May be used by the CMS for various functionality
-site_url: https://digital-land-design.netlify.app
-display_url: https://digital-land-design.netlify.app
+site_url: https://design-history.planning-data.dev/
+display_url: https://design-history.planning-data.dev/
 # where are we placing any images
 media_folder: app/images/uploads
 # what path will images be served from
