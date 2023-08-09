@@ -1,8 +1,11 @@
 # Design history for Digital Land
 
-A place we document digital land service designs.
+A place we document Planning Data service designs.
 
-<https://digital-land-design.netlify.app/> 
+Read our design history at:
+<https://design-history.planning-data.dev/>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0748b2d4-4d31-4197-843a-4ab3d69245d6/deploy-status)](https://app.netlify.com/sites/planning-data-design-history/deploys)
 
 ## Purpose of this project
 
