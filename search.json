@@ -7,4 +7,13 @@
     "dateString": "8 August 2023",
     "templateContent": " when designing building service can easy forget why previous decisions were made even more new people join team others leave design history help by creating permanent record site such this one like blog with posts describing development features iterations existing ones findings from user research anything that may useful return later teams have found keeping they could: re evaluate see how feature changed over time things tested give context members demonstrate reasons certain did work create snapshots looked significant milestones share across government everything assessors any questions comments digital land email digitalland@levellingup.gov.uk ind us cross slack",
     "url": "/digital-land-design-history/"
+  },  {
+    "data": {
+      "title": "Brownfield land validator",
+"description": "A validator tool for the Brownfield Land data standard","section": "home",      "layout": "post"
+    },
+    "date": "2023-08-09T00:00:00.000Z",
+    "dateString": "9 August 2023",
+    "templateContent": " there lot inconsistencies with data were collecting from lpas wanted see whether providing feedback would help users this first iteration based very strict validation unsurprisingly test well",
+    "url": "/brownfield-land-validator/"
   }]
