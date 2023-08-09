@@ -1,6 +1,7 @@
 ---
-title: Brownfield land validator
-description: A validator tool for the Brownfield Land data standard
+title: Check your brownfield land data
+description: A tool for people to check their the Brownfield Land data compared
+  to the data standard
 date: 2023-08-09
 ---
 ## What did we do?
@@ -13,7 +14,7 @@ So we wanted to see whether providing feedback about their data would help those
 
 ### Users did not engage with strict validation errors 
 
-Initial versions of this prototype validated the the user's data against the standard and then presented the user with a report of all the errors and omissions. Users did not respond well to this type of feedback, especially users who were not data experts.
+Initial versions of this prototype *validated* the the user's data against the standard and then presented the user with a report of all the errors and omissions. Users did not respond well to this type of feedback, especially users who were not data experts.
 
 ### Users respond well when their data is 'played back' to them.
 
