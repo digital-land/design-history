@@ -11,10 +11,13 @@ So we wanted to see whether providing feedback about their data would help those
 
 ## What did we learn?
 
-We learned:
+### Users did not engage with strict validation errors 
 
-* Users did not engage with strict validation errors when their data was checked against the standard.
-* Users respond well when their data is 'played back' to them. Showing their data and presenting facts and information we gleaned from it, resulted in a better more proactive reponse from users.
+Initial versions of this prototype validated the the user's data against the standard and then presented the user with a report of all the errors and omissions. Users did not respond well to this type of feedback, especially users who were not data experts.
+
+### Users respond well when their data is 'played back' to them.
+
+Showing users their data in an easily digestible way prompted a much more positive response. Presenting facts and information that we had extrapolated from their date, triggered users to want to investigate omissions and inaccuracies.
 
 ![Homepage of the check your brownfield land tool](/assets/images/uploads/brownfield-sites-validator.herokuapp.com_.png "Homepage")
 
