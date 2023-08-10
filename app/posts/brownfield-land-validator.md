@@ -25,5 +25,3 @@ Showing users their data in an easily digestible way prompted a much more positi
 ![Screen to upload the CSV file](/assets/images/uploads/brownfield-sites-validator.herokuapp.com_upload.png "Upload your brownfield land register")
 
 ![Playback screen](/assets/images/uploads/playback.png "Playback of the data")
-
-Hello
